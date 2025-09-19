@@ -35,9 +35,9 @@ The bot is built using **Botpress Cloud** and follows the given problem statemen
 
 ## 🏆 Submission Info
 - **Event:** AI Chit Chat Bot Challenge – TechFEST’25  
-- **Participant:** [Your Name]  
-- **College/Institute:** [Your Institute]  
-- **Date:** [Submission Date]  
+- **Participant:** Aparna Bharti  
+- **College/Institute:** Sant longowal institute of engineering and technology  
+- **Date:** 19 september 2025
 
 ---
 
